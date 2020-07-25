@@ -2,7 +2,7 @@
   <img width="100%" src="https://thatjenster.github.io/thatjenster/githubProfileTop.gif">
 </p>
 
-**_Currently looking for work! Let's chat_** 🤗
+**_I'm currently looking for work! Let's chat_** 🤗
 
 
 I am a professional Front-End Web Developer based in Toronto, originally from Vancouver. I have a passion for creating beautiful web applications. 
