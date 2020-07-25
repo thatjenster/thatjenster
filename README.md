@@ -1,1 +1,2 @@
-Hello, welcome to my GitHub profile
+
+![Jenny Dinh GitHub profile landing page](/githubProfile.gif)
