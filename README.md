@@ -1,5 +1,5 @@
 # Jenny Dinh 
-...or call me _**thatjenster**_
+...or call me _**thatjenster**_ <br>
 **_I'm currently looking for work! Let's [chat](https://calendly.com/thatjenster)_** 🤗
 
 <img width="100%" src="https://thatjenster.github.io/thatjenster/githubProfileTop.gif">
