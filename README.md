@@ -14,7 +14,7 @@ Striving to be the best version of me and inspiring others to do the same. <br>
 I'm either [hustling](https://thatjenster.wordpress.com/2020/06/29/i-aint-great-but-i-got-grit-how-i-overcome-selfdoubt-as-a-developer/) early mornings or late nights... but never both. Rest and Recovery is important for [long-term goals](https://thatjenster.wordpress.com/2020/05/19/coding-the-invisible-superpower-in-an-evolving-world/). 💯  
 
 ## Get in touch
--  [Personal Website && Portfolio](https://www.thatjenster.io) Find out what I've done and What I'm working on *⬇️)see below ⬇️*
+-  [Personal Website && Portfolio](https://www.thatjenster.io) Find out what I've done and What I'm working on *⬇️ see below ⬇️*
 -  Follow me on [Twitter](https://twitter.com/thatjenster)
 -  On [LinkedIn](https://linkedin.com/in/thatjenster-jennydinh)
 -  View my [Resume](https://thatjenster.io/jennydinh.pdf)
