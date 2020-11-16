@@ -1,10 +1,10 @@
 # Jenny Dinh 
 ...or call me _**thatjenster**_ <br>
-**I'm currently looking for work! Let's [chat](https://calendly.com/thatjenster)** 🤗
+**Let's [chat](https://calendly.com/thatjenster)** 🤗
 
 <img width="100%" src="https://thatjenster.github.io/thatjenster/githubProfileTop.gif">
 
-I am a professional Front-End Web Developer based in Toronto, originally from Vancouver. I have a passion for creating beautiful web applications. <br>
+I am a professional Front-End Web Developer for Property.ca based in Toronto. Originally form Vancouver, I have a passion for creating beautiful web applications. <br>
 
 When I am not 👩‍💻 , you can find me exploring the 🌎 and looking for the next best 🍣 joint!
 
