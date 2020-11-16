@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://thatjenster.github.io/thatjenster/githubProfileTop.gif">
 
-I am a professional Front-End Web Developer for Property.ca based in Toronto. Originally form Vancouver, I have a passion for creating beautiful web applications. <br>
+I am a professional Front-End Web Developer for [Property.ca](https://property.ca/) based in Toronto. Originally form Vancouver, I have a passion for creating beautiful web applications. <br>
 
 When I am not 👩‍💻 , you can find me exploring the 🌎 and looking for the next best 🍣 joint!
 
